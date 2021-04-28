@@ -1,0 +1,41 @@
+
+body{
+    background-color: whitesmoke !important;
+}
+
+h1 {
+    font-size: .25em;
+}
+
+button {
+    margin: .25em;
+    height: 3em;
+}
+
+.header {
+    padding-bottom: 1.5em;
+    background-color: gray;
+}
+
+#header-title{
+    margin: .5em;
+    color:tomato;
+    font-weight: bold;
+}
+
+#position-meter {
+    margin: 1.5em;
+}
+
+#position {
+    margin: .5em;
+}
+
+.option-block{
+    padding: 1.5em;
+}
+
+#range-status {
+    padding-top: 1.5em;
+    text-align:center;
+}
